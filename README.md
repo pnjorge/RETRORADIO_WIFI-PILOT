@@ -1,6 +1,6 @@
 # RETRORADIO WIFI-PILOT
 
-Upgrading a 1970s radio receiver to include internet web radio and hourly clock functions.
+Clean upgrade of a 1970s radio receiver to include internet web radio, ambilight and hourly clock functions.
 
 
 
