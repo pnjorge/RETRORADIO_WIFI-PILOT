@@ -1,0 +1,54 @@
+
+
+
+{
+
+	"volume":"20",
+	
+	"bright":"40",		
+	
+	"zenRandomMin":"30",
+	
+	"zenRandomMax":"90",	
+	
+	"gmtOffset":"3600",
+	
+	"daylightOffset":"0",
+		
+  	"radio_01":"http://vis.media-ice.musicradio.com/CapitalMP3",
+  
+ 	"radio_02":"http://media-ice.musicradio.com:80/LBCLondonMP3Low",
+  
+  	"radio_03":"http://media-ice.musicradio.com:80/ClassicFMMP3",
+  	
+  	"radio_04":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q",
+  		
+  	"radio_05":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p",
+  			
+  	"radio_06":"http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls",
+  				
+   	"radio_07":"bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
+  					
+	"radio_08":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p",
+  						
+	"radio_09":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p",
+  							
+	"radio_10":"http://edge-bauerabsolute-14-gos1.sharp-stream.com/absolute90s.mp3",
+  								
+  	"radio_11":"http://185.80.221.113:7550/;",
+  									
+  	"radio_12":"http://20723.live.streamtheworld.com:80/RADIO_RENASCENCA_SC",		
+  	  	 						
+  	"radio_13":"http://radiocast.rtp.pt/antena180a.mp3",
+  							
+	"radio_14":"http://mcrscast.mcr.iol.pt/comercial.mp3",
+  								
+	"radio_15":"http://audio1.broadcastify.com/189881703.mp3",
+  									
+  	"radio_16":"http://109.169.54.86:8044/listen.pls"								
+  
+}
+
+
+
+
