@@ -10,7 +10,7 @@ Upgrading a 1970s radio receiver to include internet web radio and hourly clock 
 
 Build details at: https://www.hackster.io/pnjorge
 
-<a href="https://www.youtube.com/user/m1nuteman" target="_blank">See YouTube videos.</a>
+Videos <a href="https://www.youtube.com/user/m1nuteman" target="_blank">on YouTube.</a>
 
 
 
