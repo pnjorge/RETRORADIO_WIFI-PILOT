@@ -5,5 +5,5 @@ How I upgraded a 1970s radio receiver to include internet web radio and hourly c
 Build details at:
 hackster.io
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://www.youtube.com/user/m1nuteman">See YouTube videos.</a>
 
