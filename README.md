@@ -4,7 +4,7 @@ Upgrading a 1970s radio receiver to include internet web radio and hourly clock 
 
 
 
-<img src="images/cover.jpg" width="25%">
+<img src="images/cover.jpg" width="50%">
 
 
 
