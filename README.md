@@ -4,7 +4,9 @@ Clean upgrade of a 1970s radio receiver to include internet web radio, ambilight
 
 
 
-<img src="images/cover.jpg" width="50%">   <img src="images/components.JPG" width="50%">
+<img src="images/cover.jpg" width="50%">
+
+<img src="images/components.JPG" width="50%">
 
 
 Demo videos on <a href="https://www.youtube.com/user/m1nuteman" target="_blank">YouTube.</a>
